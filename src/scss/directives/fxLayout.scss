@@ -1,0 +1,8 @@
+.fxLayout {
+  height: 100%;
+  box-sizing: border-box;
+  display: flex;
+  &.fxWrap {
+    flex-wrap: wrap;
+  }
+}
